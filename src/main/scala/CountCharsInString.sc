@@ -9,4 +9,3 @@ object Kata {
 }
 
 Kata.count("")
-
