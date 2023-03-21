@@ -27,7 +27,7 @@ object GapInPrimes {
 
     found match {
       case Some((x, y)) => (x, y).toString
-      case None => ""t
+      case None => ""
     }
   }
 }
