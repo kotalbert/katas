@@ -4,3 +4,5 @@
 - [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 - [Multiplication Table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
 - [Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
+- [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
+- [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
